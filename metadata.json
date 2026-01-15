@@ -1,0 +1,5 @@
+{
+  "name": "DataHub Streamlit-Clone",
+  "description": "A React-based professional data management tool for uploading, searching, and selecting contact records from Excel and CSV files, featuring a clean Streamlit-inspired UI.",
+  "requestFramePermissions": []
+}
